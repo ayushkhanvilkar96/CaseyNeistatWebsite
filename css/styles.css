@@ -1,0 +1,15 @@
+body{
+	font-family: 'Josefin Sans', sans-serif;
+}
+
+.margintop{
+	margin-top: 25px;
+}
+
+.website-title{
+	font-size: 75px;
+}
+
+hr{
+	border-top: 1px solid #2E2E2E;
+}
