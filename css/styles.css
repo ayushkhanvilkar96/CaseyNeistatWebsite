@@ -33,7 +33,33 @@ hr{
 	img{
 		height: auto;
 		width: auto;
-		max-width:200px;
-		max-height:200px;
+		max-width:280px;
+		max-height:280px;
+		margin-left: auto;
+		margin-right: auto;
+		display: block;
+	}
+
+	.logo{
+		height: auto;
+		width: auto;
+		max-width:180px;
+		max-height:180px;
+	}
+
+	.video{
+		margin-top: 20px;
+	}
+
+	.margin-left-title{
+		margin-left: 110px;
+	}
+
+	.margin-left-image{
+		margin-left: 20px;
+	}
+
+	.margin-left-para{
+		margin-left: 15px;
 	}
 }
